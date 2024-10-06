@@ -16,9 +16,9 @@ Requirements:
 
 Note: It is highly recommended to use a virtual environment:
 ```
-python -m venv env # only needed once
+python -m venv env
 source env/bin/activate
-pip install -r requirements.txt # only needed once
+pip install -r requirements.txt
 python main_app.py
 ```
 
